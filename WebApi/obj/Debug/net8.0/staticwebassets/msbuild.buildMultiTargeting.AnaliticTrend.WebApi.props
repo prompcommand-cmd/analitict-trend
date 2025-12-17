@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AnaliticTrend.WebApi.props" />
+</Project>

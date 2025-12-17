@@ -1,0 +1,6 @@
+wwwroot\fonts\Calibri-Bold.ttf
+wwwroot\fonts\Calibri-Italic.ttf
+wwwroot\fonts\Calibri-Regular.ttf
+wwwroot\fonts\Roboto-Bold.ttf
+wwwroot\fonts\Roboto-Italic.ttf
+wwwroot\fonts\Roboto-Regular.ttf

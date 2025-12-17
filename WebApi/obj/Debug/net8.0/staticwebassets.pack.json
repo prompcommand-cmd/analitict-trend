@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Calibri-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Calibri-Italic.ttf"
+    },
+    {
+      "Id": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Calibri-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Italic.ttf"
+    },
+    {
+      "Id": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AnaliticTrend.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AnaliticTrend.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AnaliticTrend.WebApi.props",
+      "PackagePath": "build\\AnaliticTrend.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AnaliticTrend.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\AnaliticTrend.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AnaliticTrend.WebApi.props",
+      "PackagePath": "buildTransitive\\AnaliticTrend.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

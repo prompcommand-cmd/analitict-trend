@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Calibri-Bold.p9zvg2sa4q.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Calibri-Bold.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p9zvg2sa4q"},{"Name":"integrity","Value":"sha256-TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8="},{"Name":"label","Value":"_content/AnaliticTrend.WebApi/fonts/Calibri-Bold.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1613668"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Calibri-Bold.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Calibri-Bold.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1613668"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Calibri-Italic.ky49ojku1a.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Calibri-Italic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ky49ojku1a"},{"Name":"integrity","Value":"sha256-XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI="},{"Name":"label","Value":"_content/AnaliticTrend.WebApi/fonts/Calibri-Italic.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1196672"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Calibri-Italic.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Calibri-Italic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1196672"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Calibri-Regular.p8alb3lpg9.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Calibri-Regular.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p8alb3lpg9"},{"Name":"integrity","Value":"sha256-GY6NrFEiBvJ8m9v\u002Bs9Wz5Voz3p3PWNgBgj74xe9adtw="},{"Name":"label","Value":"_content/AnaliticTrend.WebApi/fonts/Calibri-Regular.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1648120"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022GY6NrFEiBvJ8m9v\u002Bs9Wz5Voz3p3PWNgBgj74xe9adtw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Calibri-Regular.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Calibri-Regular.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GY6NrFEiBvJ8m9v\u002Bs9Wz5Voz3p3PWNgBgj74xe9adtw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1648120"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022GY6NrFEiBvJ8m9v\u002Bs9Wz5Voz3p3PWNgBgj74xe9adtw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Roboto-Bold.sk8emkqomt.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Roboto-Bold.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sk8emkqomt"},{"Name":"integrity","Value":"sha256-7GhaRhBSlv5GyHRNpKEc\u002BBGLpsEScZQXZvelRt9qp8c="},{"Name":"label","Value":"_content/AnaliticTrend.WebApi/fonts/Roboto-Bold.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"167336"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00227GhaRhBSlv5GyHRNpKEc\u002BBGLpsEScZQXZvelRt9qp8c=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Roboto-Bold.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Roboto-Bold.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7GhaRhBSlv5GyHRNpKEc\u002BBGLpsEScZQXZvelRt9qp8c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"167336"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00227GhaRhBSlv5GyHRNpKEc\u002BBGLpsEScZQXZvelRt9qp8c=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Roboto-Italic.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Roboto-Italic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"170504"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Roboto-Italic.zdnc2eij4l.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Roboto-Italic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zdnc2eij4l"},{"Name":"integrity","Value":"sha256-meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM="},{"Name":"label","Value":"_content/AnaliticTrend.WebApi/fonts/Roboto-Italic.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"170504"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Roboto-Regular.6f124dml9x.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Roboto-Regular.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6f124dml9x"},{"Name":"integrity","Value":"sha256-ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ="},{"Name":"label","Value":"_content/AnaliticTrend.WebApi/fonts/Roboto-Regular.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"168260"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AnaliticTrend.WebApi/fonts/Roboto-Regular.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Roboto-Regular.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"168260"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:05:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

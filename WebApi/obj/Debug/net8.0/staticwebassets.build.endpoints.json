@@ -1,0 +1,498 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "fonts/Calibri-Bold.p9zvg2sa4q.ttf",
+      "AssetFile": "fonts/Calibri-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p9zvg2sa4q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8="
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Calibri-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Calibri-Bold.ttf",
+      "AssetFile": "fonts/Calibri-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Calibri-Italic.ky49ojku1a.ttf",
+      "AssetFile": "fonts/Calibri-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1196672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ky49ojku1a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI="
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Calibri-Italic.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Calibri-Italic.ttf",
+      "AssetFile": "fonts/Calibri-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1196672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Calibri-Regular.p8alb3lpg9.ttf",
+      "AssetFile": "fonts/Calibri-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1648120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GY6NrFEiBvJ8m9v+s9Wz5Voz3p3PWNgBgj74xe9adtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8alb3lpg9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GY6NrFEiBvJ8m9v+s9Wz5Voz3p3PWNgBgj74xe9adtw="
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Calibri-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Calibri-Regular.ttf",
+      "AssetFile": "fonts/Calibri-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1648120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GY6NrFEiBvJ8m9v+s9Wz5Voz3p3PWNgBgj74xe9adtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GY6NrFEiBvJ8m9v+s9Wz5Voz3p3PWNgBgj74xe9adtw="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Bold.sk8emkqomt.ttf",
+      "AssetFile": "fonts/Roboto-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GhaRhBSlv5GyHRNpKEc+BGLpsEScZQXZvelRt9qp8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sk8emkqomt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GhaRhBSlv5GyHRNpKEc+BGLpsEScZQXZvelRt9qp8c="
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Roboto-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Bold.ttf",
+      "AssetFile": "fonts/Roboto-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GhaRhBSlv5GyHRNpKEc+BGLpsEScZQXZvelRt9qp8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GhaRhBSlv5GyHRNpKEc+BGLpsEScZQXZvelRt9qp8c="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Italic.ttf",
+      "AssetFile": "fonts/Roboto-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Italic.zdnc2eij4l.ttf",
+      "AssetFile": "fonts/Roboto-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zdnc2eij4l"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM="
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Roboto-Italic.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Regular.6f124dml9x.ttf",
+      "AssetFile": "fonts/Roboto-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6f124dml9x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ="
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Roboto-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Regular.ttf",
+      "AssetFile": "fonts/Roboto-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ="
+        }
+      ]
+    }
+  ]
+}

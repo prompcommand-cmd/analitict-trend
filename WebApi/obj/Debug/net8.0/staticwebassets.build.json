@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "UFVZnCDXV1q2D8wn5YYFh1PA7TUZoj8Oc/g63eabUho=",
+  "Source": "AnaliticTrend.WebApi",
+  "BasePath": "_content/AnaliticTrend.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AnaliticTrend.WebApi\\wwwroot",
+      "Source": "AnaliticTrend.WebApi",
+      "ContentRoot": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\",
+      "BasePath": "_content/AnaliticTrend.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Bold.ttf",
+      "SourceId": "AnaliticTrend.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\",
+      "BasePath": "_content/AnaliticTrend.WebApi",
+      "RelativePath": "fonts/Calibri-Bold#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p9zvg2sa4q",
+      "Integrity": "TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\Calibri-Bold.ttf"
+    },
+    {
+      "Identity": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Italic.ttf",
+      "SourceId": "AnaliticTrend.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\",
+      "BasePath": "_content/AnaliticTrend.WebApi",
+      "RelativePath": "fonts/Calibri-Italic#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ky49ojku1a",
+      "Integrity": "XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\Calibri-Italic.ttf"
+    },
+    {
+      "Identity": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Regular.ttf",
+      "SourceId": "AnaliticTrend.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\",
+      "BasePath": "_content/AnaliticTrend.WebApi",
+      "RelativePath": "fonts/Calibri-Regular#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p8alb3lpg9",
+      "Integrity": "GY6NrFEiBvJ8m9v+s9Wz5Voz3p3PWNgBgj74xe9adtw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\Calibri-Regular.ttf"
+    },
+    {
+      "Identity": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Bold.ttf",
+      "SourceId": "AnaliticTrend.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\",
+      "BasePath": "_content/AnaliticTrend.WebApi",
+      "RelativePath": "fonts/Roboto-Bold#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sk8emkqomt",
+      "Integrity": "7GhaRhBSlv5GyHRNpKEc+BGLpsEScZQXZvelRt9qp8c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Bold.ttf"
+    },
+    {
+      "Identity": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Italic.ttf",
+      "SourceId": "AnaliticTrend.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\",
+      "BasePath": "_content/AnaliticTrend.WebApi",
+      "RelativePath": "fonts/Roboto-Italic#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zdnc2eij4l",
+      "Integrity": "meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Italic.ttf"
+    },
+    {
+      "Identity": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Regular.ttf",
+      "SourceId": "AnaliticTrend.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\",
+      "BasePath": "_content/AnaliticTrend.WebApi",
+      "RelativePath": "fonts/Roboto-Regular#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6f124dml9x",
+      "Integrity": "ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Regular.ttf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "fonts/Calibri-Bold.p9zvg2sa4q.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p9zvg2sa4q"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Calibri-Bold.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Calibri-Bold.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TVxWwHxBMVAizVoklmreOYPO686LyBUk5W5GMt0/JC8="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Calibri-Italic.ky49ojku1a.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1196672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ky49ojku1a"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Calibri-Italic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Calibri-Italic.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1196672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XIW5re3ecQ51SzFjAFKR7KFs0MzMx8jX/1JgcOiYAgI="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Calibri-Regular.p8alb3lpg9.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1648120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GY6NrFEiBvJ8m9v+s9Wz5Voz3p3PWNgBgj74xe9adtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8alb3lpg9"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Calibri-Regular.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GY6NrFEiBvJ8m9v+s9Wz5Voz3p3PWNgBgj74xe9adtw="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Calibri-Regular.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Calibri-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1648120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GY6NrFEiBvJ8m9v+s9Wz5Voz3p3PWNgBgj74xe9adtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GY6NrFEiBvJ8m9v+s9Wz5Voz3p3PWNgBgj74xe9adtw="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Bold.sk8emkqomt.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GhaRhBSlv5GyHRNpKEc+BGLpsEScZQXZvelRt9qp8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sk8emkqomt"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Roboto-Bold.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GhaRhBSlv5GyHRNpKEc+BGLpsEScZQXZvelRt9qp8c="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Bold.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GhaRhBSlv5GyHRNpKEc+BGLpsEScZQXZvelRt9qp8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GhaRhBSlv5GyHRNpKEc+BGLpsEScZQXZvelRt9qp8c="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Italic.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Italic.zdnc2eij4l.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zdnc2eij4l"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Roboto-Italic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-meSoUGETbpngUpKe0NheNjhPulw0t3MTmo9kM5xgmUM="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Regular.6f124dml9x.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6f124dml9x"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Roboto-Regular.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto-Regular.ttf",
+      "AssetFile": "D:\\Master\\TechnicalTest-WidaAndry\\WebApi\\wwwroot\\fonts\\Roboto-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 10:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ="
+        }
+      ]
+    }
+  ]
+}
