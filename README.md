@@ -8,7 +8,8 @@ This project is a **C# .NET application** built using **Clean Architecture** pri
 - Easy testing and future scalability
 
 The application uses **SQLite** as the database and **Entity Framework Core (EF Core)** for data access.
-Note: For the /production/trend you can call it without parameter just { } or if you want to condition for the year only is like { orderDateYear: "2023" }
+---
+Note: For the API: /production/trend you can call it without parameter just { } or if you want to condition for the year only is like { orderDateYear: "2023" }
 ---
 
 ## How to run BackEnd
