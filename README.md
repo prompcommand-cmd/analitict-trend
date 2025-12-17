@@ -33,4 +33,5 @@ This project follows **Clean Architecture**, where dependencies always point **i
 - No external DB server required
 
 ### SQLite File
-By default, the SQLite database file is stored locally
+By default, the SQLite database file is stored locally and the name database is **AnaliticTrend.db**
+inside that db there is 2 table which is Users and OrderRecord
