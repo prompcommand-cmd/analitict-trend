@@ -1,0 +1,6 @@
+@AnaliticsTrend_HostAddress = http://localhost:5083
+
+GET {{AnaliticsTrend_HostAddress}}/
+Accept: application/json
+
+###
