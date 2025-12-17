@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AnaliticTrend.Application</name>
+    </assembly>
+    <members>
+        <member name="M:Application.Abstracts.IGenericRepository`1.SetWorkMem(System.Int32)">
+            <summary>
+            Increase memory usage to increase performance when sorting, grouping, distinct, Count() has I/O to Disk on EXPLAIN ANALYSE
+            make sure 
+            </summary>
+            <param name="memoryInMb">by default 64Mb</param>
+        </member>
+    </members>
+</doc>
